@@ -28,7 +28,7 @@ global.autoreact = process.env.AUTO_REACT === 'true';
 global.autolikestatus = process.env.AUTO_LIKE_STATUS === 'true';
 
 // Thumbnail profile picture
-global.elitepropp = process.env.ELITE_PRO_PP || 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg';
+global.elitepropp = process.env.ELITE_PRO_PP || 'https://i.supaimg.com/a96d39a5-1c68-4dc2-a682-77cadca5a221.jpg';
 // Default emoji
 global.themeemoji = process.env.THEME_EMOJI || '👨‍💻';
 
@@ -39,11 +39,11 @@ global.author = process.env.AUTHOR || 'ELITEPRO\n\nContact: +2348109263390';
 // Default settings 2
 global.typemenu = process.env.TYPE_MENU || 'v2';
 global.wm = process.env.WM || "Youtube @EliteProTech";
-global.link = process.env.LINK || 'https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g';
+global.link = process.env.LINK || 'https://whatsapp.com/channel/0029VaxJHLb5a248k7Cz8F0a';
 
 // Text bug
 global.xbugtex = {
-    xtxt: '👨‍💻ELITE-PRO👨‍💻',
+    xtxt: '👨‍💻 UNBANNED-PRO👨‍💻',
 };
 
 // Reply messages
